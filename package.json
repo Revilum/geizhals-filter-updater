@@ -1,0 +1,12 @@
+{
+  "name": "geizhals-filter-updater",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "lodash": "^4.17.21"
+  }
+}

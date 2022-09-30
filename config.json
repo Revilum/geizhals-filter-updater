@@ -1,0 +1,20 @@
+{
+    "categories": {
+			"subCat": "m",
+			"finalCat": "o",
+            "page": "cat"
+    },
+    "values": {
+        "country": {
+            "ger": "de",
+            "pl": "pl",
+            "uk": "uk",
+            "at": "at"
+        },
+        "availability": {
+            "inStock": "l",
+            "shortTerm": "k"
+        }
+    },
+    "baseurl": "https://geizhals.de/"
+}
